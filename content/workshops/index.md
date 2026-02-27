@@ -11,11 +11,11 @@ menu:
     [slides](programming/2026/t1w1.pdf),
     [problemset (pwd: cpmsoc)](https://vjudge.net/contest/790218)
 
-# Mathematics 2025
--     Term 1 Week 2 - Intro to Quant:
-      [slides](mathematics/2026/Intro to Quant v3.0.pdf),
-      [problems](mathematics/2026/Introduction to Quant Problems.pdf),
-      [recording](https://www.youtube.com/watch?v=hPaYkQq8FGs)
+# Mathematics 2026
+-   Term 1 Week 2 - Intro to Quant:
+    [slides](mathematics/2026/Intro to Quant v3.0.pdf),
+    [problems](mathematics/2026/Introduction to Quant Problems.pdf),
+    [recording](https://www.youtube.com/watch?v=hPaYkQq8FGs)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
@@ -277,6 +277,7 @@ menu:
     [slides](mathematics/2021/workshop_9_slides.pdf),
     [problems](mathematics/2021/workshop_9_problems.pdf),
     [recording](https://youtu.be/0b1D-Iv-B1E)
+
 
 
 
